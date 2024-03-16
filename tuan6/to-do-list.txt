@@ -1,0 +1,3 @@
+1. create a database with two tables "Class" and "Student" and then add 2 classes and 10 students each class
+2. create a table in java swing with three columns "ClassID", "ClassName" and "NumberOfStudents"
+3. use java swing to connect to the database, query and show them on those three columns
